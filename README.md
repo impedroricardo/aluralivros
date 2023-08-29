@@ -24,7 +24,7 @@
 | Tablet | Layout de 1024px. |
 | Desktop | Layout de 1720px. |
 
-**Link para o site ----------->** https://anthony-souzx.github.io/alurabook/
+**Link para o site ----------->**https://impedroricardo.github.io/aluralivros/
 
 
 
